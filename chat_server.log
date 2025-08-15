@@ -1,0 +1,2 @@
+2025-08-16 02:20:57,452 - [31mERROR[0m - Error handling client abra: [Errno 9] Bad file descriptor
+2025-08-16 02:21:22,308 - [31mERROR[0m - Error handling client alice: [Errno 9] Bad file descriptor
