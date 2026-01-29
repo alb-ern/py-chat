@@ -28,7 +28,7 @@ def get_input():
 try:
 	sock.connect((IP,PORT))
 except Exception:
-	print("bruv")
+	print("error")
 print("connected")
 
 thread=threading.Thread(target=get_input)
